@@ -10,11 +10,15 @@
 
 
 .banner{
-	width:100%;
-	height:93vh;
+/* 	width:100%;
+	height:93vh; */
 	background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7))  ,url(../image/pexels-andrea-piacquadio-3760263.jpg );
 	background-size:cover;
 	color:white;
+	 max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 	
 }
 
